@@ -13,7 +13,8 @@ git init
 git add READMEpart3.md
 ##step 4:
 git commit -m "how to add to git repo after closing CP"
-##step 5: 
-git remote add origin https://github.com/karontu06/test.git
+
 ##step 6:
 git push -u origin master
+
+try again
