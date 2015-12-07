@@ -12,9 +12,7 @@ git init
 ##step 3:
 git add READMEpart3.md
 ##step 4:
-git commit -m "how to add to git repo after closing CP"
-
+git commit -m "how to add to git repo after completely closing CP"
+##step 5:don't have to set the origin master again because git already knows what the local repo is linked to
 ##step 6:
 git push -u origin master
-
-try again
